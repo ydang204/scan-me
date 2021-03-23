@@ -1,6 +1,6 @@
 # scanme
 
-A new Flutter project.
+A Flutter project use GetX.
 
 ## Getting Started
 
