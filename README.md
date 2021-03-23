@@ -1,6 +1,6 @@
 # scanme
 
-A Flutter project use GetX.
+A Flutter project use [GetX](https://github.com/jonataslaw/getx) and follow [GetX Pattern](https://github.com/kauemurakami/getx_pattern).
 
 ## Getting Started
 
